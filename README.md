@@ -1,0 +1,1 @@
+javascript machine code preparation 
